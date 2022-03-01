@@ -1,0 +1,24 @@
+/coverage
+/demo/dist
+/es
+/lib
+/node_modules
+/umd
+npm-debug.log*
+.vscode/
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
